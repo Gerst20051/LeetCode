@@ -1,3 +1,5 @@
+https://leetcode.com/problems/insert-delete-getrandom-o1
+
 Implement the RandomizedSet class:
 
 RandomizedSet() Initializes the RandomizedSet object.
